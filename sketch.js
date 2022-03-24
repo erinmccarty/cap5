@@ -5,9 +5,9 @@ function preload(){
 
 
 function setup() { 
-  createCanvas(1000, 800);
+  createCanvas(1920, 1080);
   
-  vid.size(1000, 800);
+  vid.size(1920, 1080);
   
     vid.hide();
     vid.loop()
